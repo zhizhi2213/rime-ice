@@ -461,13 +461,3 @@ duplicate definition:
 ## 许可证
 
 GPL-3.0 (only) License.
-
-## 赞助
-
-如果觉得项目不错，可以请 Dvel 吃个煎饼馃子。
-
-<img src="./others/asserts/sponsor.webp" alt="请 Dvel 吃个煎饼馃子" width=300 />
-
-[^1]: 由 @Mintimate 友情构建
-[^2]: 这将清空你之前的用户偏好和词库，如需要，请先备份
-[^3]: 九键方案仅适用于 iOS 平台的特定软件
