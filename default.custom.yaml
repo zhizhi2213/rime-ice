@@ -1,0 +1,9 @@
+patch:
+  # 覆盖菜单页候选词个数
+  menu/page_size: 8
+  
+  # 覆盖启用的输入方案
+  schema_list:
+    - schema: rime_ice               # 雾凇拼音（全拼）
+    - schema: double_pinyin_flypy    # 小鹤双拼
+    - schema: double_pinyin_jiajia   # 拼音加加双拼
